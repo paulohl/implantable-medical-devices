@@ -1,0 +1,505 @@
+{
+  "scope": "Official NMPA UDI downloads plus two row-aligned provincial-regulator cross-check records. No inferred approval validity.",
+  "retrieved_utc": "2026-10-28T20:48:31.622336+00:00",
+  "udi_records": [
+    {
+      "detail_url": "https://udi.nmpa.gov.cn/showDetailCX.html?deviceRecordKey=43b5a3d8-98c4-4461-830b-f74572edaaec",
+      "download": {
+        "url": "https://udi.nmpa.gov.cn/toDown.html",
+        "method": "POST",
+        "form": {
+          "deviceRecordKey": "43b5a3d8-98c4-4461-830b-f74572edaaec",
+          "type": "2"
+        }
+      },
+      "retrieved_utc": "2026-10-28T20:48:31.622336+00:00",
+      "sha256_original_response": "e6bc3f972211d0a01442a614f17184288c794251c91fa7aa7fb8fb4d768fa997",
+      "record": {
+        "zxxsdycpbs": "06942807604040",
+        "cpbsbmtxmc": "GS1",
+        "cpbsfbrq": "2020-09-07",
+        "zxxsdyzsydydsl": "1",
+        "sydycpbs": "",
+        "sfybtzjbs": "否",
+        "btcpbsyzxxsdycpbssfyz": "",
+        "btcpbs": "",
+        "cpmctymc": "植入式心脏起博器",
+        "spmc": "",
+        "ggxh": "Qinming8631DR",
+        "sfwblztlcp": "否",
+        "cpms": "植入式心脏起博器由电池、电路、外壳、密封塞、电极导线连接器组成，每只植入式心脏起搏器配有一个力矩扳手，作为附件和植入式心脏起博器封装在无菌包装内。用于治疗缓慢性心律失常",
+        "cphhhbh": "",
+        "yflbm": "",
+        "qxlb": "器械",
+        "flbm": "12-01-01",
+        "tyshxydm": "916100007197599584",
+        "zczbhhzbapzbh": "国械注准20163211585,国械注准20163121585",
+        "ylqxzcrbarmc": "乐普医学电子仪器股份有限公司",
+        "ylqxzcrbarywmc": "",
+        "ybbm": "C02040205800005058750000002",
+        "cplb": "设备",
+        "cgzmraqxgxx": "说明书或标签上面不包含MR安全性信息",
+        "sfbjwycxsy": "是",
+        "zdcfsycs": "",
+        "sfwwjbz": "是",
+        "syqsfxyjxmj": "否",
+        "mjfs": "",
+        "qtxxdwzlj": "",
+        "tsrq": "",
+        "scbssfbhph": "是",
+        "scbssfbhxlh": "是",
+        "scbssfbhscrq": "否",
+        "scbssfbhsxrq": "是",
+        "packingInfoList": [],
+        "storageInfoList": [],
+        "tscchcztj": "",
+        "clinicalInfoList": [],
+        "tsccsm": "",
+        "deviceRecordKey": "43b5a3d8-98c4-4461-830b-f74572edaaec",
+        "versionNumber": "3",
+        "versionTime": "2022-04-19",
+        "versionStauts": "更新",
+        "companyContactList": [
+          {
+            "qylxrcz": "",
+            "qylxryx": "weiping@qinming.com",
+            "qylxrdh": "09173600653"
+          }
+        ],
+        "correctionNumber": "0",
+        "correctionRemark": "",
+        "correctionTime": ""
+      }
+    },
+    {
+      "detail_url": "https://udi.nmpa.gov.cn/showDetailCX.html?deviceRecordKey=6a4ad7d3-d238-4305-a796-aff92a2dfe5e",
+      "download": {
+        "url": "https://udi.nmpa.gov.cn/toDown.html",
+        "method": "POST",
+        "form": {
+          "deviceRecordKey": "6a4ad7d3-d238-4305-a796-aff92a2dfe5e",
+          "type": "2"
+        }
+      },
+      "retrieved_utc": "2026-10-28T20:48:31.622336+00:00",
+      "sha256_original_response": "4d91f4ca14f1139fd75557bb28cd8a35bea68b97daf3c0110a7b18d7b839384b",
+      "record": {
+        "zxxsdycpbs": "06942807604057",
+        "cpbsbmtxmc": "GS1",
+        "cpbsfbrq": "2020-09-07",
+        "zxxsdyzsydydsl": "1",
+        "sydycpbs": "",
+        "sfybtzjbs": "否",
+        "btcpbsyzxxsdycpbssfyz": "",
+        "btcpbs": "",
+        "cpmctymc": "植入式心脏起博器",
+        "spmc": "",
+        "ggxh": "Qinming8631D",
+        "sfwblztlcp": "否",
+        "cpms": "植入式心脏起博器由电池、电路、外壳、密封塞、电极导线连接器组成，每只植入式心脏起搏器配有一个力矩扳手，作为附件和植入式心脏起博器封装在无菌包装内。用于治疗缓慢性心律失常",
+        "cphhhbh": "",
+        "yflbm": "",
+        "qxlb": "器械",
+        "flbm": "12-01-01",
+        "tyshxydm": "916100007197599584",
+        "zczbhhzbapzbh": "国械注准20163121585,国械注准20163211585",
+        "ylqxzcrbarmc": "乐普医学电子仪器股份有限公司",
+        "ylqxzcrbarywmc": "",
+        "ybbm": "C02040205800006058750000002",
+        "cplb": "设备",
+        "cgzmraqxgxx": "说明书或标签上面不包含MR安全性信息",
+        "sfbjwycxsy": "是",
+        "zdcfsycs": "",
+        "sfwwjbz": "是",
+        "syqsfxyjxmj": "否",
+        "mjfs": "",
+        "qtxxdwzlj": "",
+        "tsrq": "",
+        "scbssfbhph": "是",
+        "scbssfbhxlh": "是",
+        "scbssfbhscrq": "否",
+        "scbssfbhsxrq": "是",
+        "packingInfoList": [],
+        "storageInfoList": [],
+        "tscchcztj": "",
+        "clinicalInfoList": [],
+        "tsccsm": "",
+        "deviceRecordKey": "6a4ad7d3-d238-4305-a796-aff92a2dfe5e",
+        "versionNumber": "3",
+        "versionTime": "2022-04-19",
+        "versionStauts": "更新",
+        "companyContactList": [
+          {
+            "qylxrcz": "",
+            "qylxryx": "weiping@qinming.com",
+            "qylxrdh": "09173600653"
+          }
+        ],
+        "correctionNumber": "0",
+        "correctionRemark": "",
+        "correctionTime": ""
+      }
+    },
+    {
+      "detail_url": "https://udi.nmpa.gov.cn/showDetailCX.html?deviceRecordKey=64d7d4a7-4788-4662-a5bd-f237bbb5e7a4",
+      "download": {
+        "url": "https://udi.nmpa.gov.cn/toDown.html",
+        "method": "POST",
+        "form": {
+          "deviceRecordKey": "64d7d4a7-4788-4662-a5bd-f237bbb5e7a4",
+          "type": "2"
+        }
+      },
+      "retrieved_utc": "2026-10-28T20:48:31.622336+00:00",
+      "sha256_original_response": "16e657588309c6520944ca1d0f1558cde16da50434dd253969cf7ac2b93e47dc",
+      "record": {
+        "zxxsdycpbs": "06942807605030",
+        "cpbsbmtxmc": "GS1",
+        "cpbsfbrq": "2020-09-07",
+        "zxxsdyzsydydsl": "1",
+        "sydycpbs": "",
+        "sfybtzjbs": "否",
+        "btcpbsyzxxsdycpbssfyz": "",
+        "btcpbs": "",
+        "cpmctymc": "植入式心脏起搏器电极导线",
+        "spmc": "",
+        "ggxh": "QM7211-60",
+        "sfwblztlcp": "否",
+        "cpms": "产品由电极导线和附件组成，其中电极导线包括连接器、导线体、缝合套、环电极、螺旋电极头和药物栓构成，附件包括静脉拉钩、塑形钢丝、和固定工具。电极导线与兼容的植入式心脏起博器配套使用，在右心室或右心房中提供持续起博和感知。",
+        "cphhhbh": "",
+        "yflbm": "",
+        "qxlb": "器械",
+        "flbm": "12-01-04",
+        "tyshxydm": "916100007197599584",
+        "zczbhhzbapzbh": "国械注准20163211583,国械注准20163121583",
+        "ylqxzcrbarmc": "乐普医学电子仪器股份有限公司",
+        "ylqxzcrbarywmc": "",
+        "ybbm": "C02041106100019058750000003",
+        "cplb": "设备",
+        "cgzmraqxgxx": "说明书或标签上面不包含MR安全性信息",
+        "sfbjwycxsy": "是",
+        "zdcfsycs": "",
+        "sfwwjbz": "是",
+        "syqsfxyjxmj": "否",
+        "mjfs": "",
+        "qtxxdwzlj": "",
+        "tsrq": "",
+        "scbssfbhph": "是",
+        "scbssfbhxlh": "是",
+        "scbssfbhscrq": "否",
+        "scbssfbhsxrq": "是",
+        "packingInfoList": [],
+        "storageInfoList": [],
+        "tscchcztj": "",
+        "clinicalInfoList": [],
+        "tsccsm": "",
+        "deviceRecordKey": "64d7d4a7-4788-4662-a5bd-f237bbb5e7a4",
+        "versionNumber": "3",
+        "versionTime": "2022-04-19",
+        "versionStauts": "更新",
+        "companyContactList": [
+          {
+            "qylxrcz": "",
+            "qylxryx": "weiping@qinming.com",
+            "qylxrdh": "09173600653"
+          }
+        ],
+        "correctionNumber": "0",
+        "correctionRemark": "",
+        "correctionTime": ""
+      }
+    },
+    {
+      "detail_url": "https://udi.nmpa.gov.cn/showDetailCX.html?deviceRecordKey=c343c793-e3a2-4a13-aeef-4bd24591f662",
+      "download": {
+        "url": "https://udi.nmpa.gov.cn/toDown.html",
+        "method": "POST",
+        "form": {
+          "deviceRecordKey": "c343c793-e3a2-4a13-aeef-4bd24591f662",
+          "type": "2"
+        }
+      },
+      "retrieved_utc": "2026-10-28T20:48:31.622336+00:00",
+      "sha256_original_response": "f73c562face49718e654f86d949437f57b0dae43431014224105bdd441e096d1",
+      "record": {
+        "zxxsdycpbs": "06942807605092",
+        "cpbsbmtxmc": "GS1",
+        "cpbsfbrq": "2020-09-07",
+        "zxxsdyzsydydsl": "1",
+        "sydycpbs": "",
+        "sfybtzjbs": "否",
+        "btcpbsyzxxsdycpbssfyz": "",
+        "btcpbs": "",
+        "cpmctymc": "植入式心脏起搏器电极导线",
+        "spmc": "",
+        "ggxh": "QM7211-53",
+        "sfwblztlcp": "否",
+        "cpms": "产品由电极导线和附件组成，其中电极导线包括连接器、导线体、缝合套、环电极、螺旋电极头和药物栓构成，附件包括静脉拉钩、塑形钢丝、和固定工具。电极导线与兼容的植入式心脏起博器配套使用，在右心室或右心房中提供持续起博和感知。",
+        "cphhhbh": "",
+        "yflbm": "",
+        "qxlb": "器械",
+        "flbm": "12-01-04",
+        "tyshxydm": "916100007197599584",
+        "zczbhhzbapzbh": "国械注准20163211583,国械注准20163121583",
+        "ylqxzcrbarmc": "乐普医学电子仪器股份有限公司",
+        "ylqxzcrbarywmc": "",
+        "ybbm": "C02041106100019058750000001",
+        "cplb": "设备",
+        "cgzmraqxgxx": "说明书或标签上面不包含MR安全性信息",
+        "sfbjwycxsy": "是",
+        "zdcfsycs": "",
+        "sfwwjbz": "是",
+        "syqsfxyjxmj": "否",
+        "mjfs": "",
+        "qtxxdwzlj": "",
+        "tsrq": "",
+        "scbssfbhph": "是",
+        "scbssfbhxlh": "是",
+        "scbssfbhscrq": "否",
+        "scbssfbhsxrq": "是",
+        "packingInfoList": [],
+        "storageInfoList": [],
+        "tscchcztj": "",
+        "clinicalInfoList": [],
+        "tsccsm": "",
+        "deviceRecordKey": "c343c793-e3a2-4a13-aeef-4bd24591f662",
+        "versionNumber": "3",
+        "versionTime": "2022-04-19",
+        "versionStauts": "更新",
+        "companyContactList": [
+          {
+            "qylxrcz": "",
+            "qylxryx": "weiping@qinming.com",
+            "qylxrdh": "09173600653"
+          }
+        ],
+        "correctionNumber": "0",
+        "correctionRemark": "",
+        "correctionTime": ""
+      }
+    },
+    {
+      "detail_url": "https://udi.nmpa.gov.cn/showDetailCX.html?deviceRecordKey=696504a7-e877-4485-b7cb-59f74eeddf78",
+      "download": {
+        "url": "https://udi.nmpa.gov.cn/toDown.html",
+        "method": "POST",
+        "form": {
+          "deviceRecordKey": "696504a7-e877-4485-b7cb-59f74eeddf78",
+          "type": "2"
+        }
+      },
+      "retrieved_utc": "2026-10-28T20:48:31.622336+00:00",
+      "sha256_original_response": "ce96bb38a7cd9173fa7c248178160edd2035eb3d24cacdf5851fee2671cdc655",
+      "record": {
+        "zxxsdycpbs": "06942807605108",
+        "cpbsbmtxmc": "GS1",
+        "cpbsfbrq": "2020-09-07",
+        "zxxsdyzsydydsl": "1",
+        "sydycpbs": "",
+        "sfybtzjbs": "否",
+        "btcpbsyzxxsdycpbssfyz": "",
+        "btcpbs": "",
+        "cpmctymc": "植入式心脏起搏器电极导线",
+        "spmc": "",
+        "ggxh": "QM7211-45",
+        "sfwblztlcp": "否",
+        "cpms": "产品由电极导线和附件组成，其中电极导线包括连接器、导线体、缝合套、环电极、螺旋电极头和药物栓构成，附件包括静脉拉钩、塑形钢丝、和固定工具。电极导线与兼容的植入式心脏起博器配套使用，在右心室或右心房中提供持续起博和感知。",
+        "cphhhbh": "",
+        "yflbm": "",
+        "qxlb": "器械",
+        "flbm": "12-01-04",
+        "tyshxydm": "916100007197599584",
+        "zczbhhzbapzbh": "国械注准20163211583,国械注准20163121583",
+        "ylqxzcrbarmc": "乐普医学电子仪器股份有限公司",
+        "ylqxzcrbarywmc": "",
+        "ybbm": "C02041106100019058750000002",
+        "cplb": "设备",
+        "cgzmraqxgxx": "说明书或标签上面不包含MR安全性信息",
+        "sfbjwycxsy": "是",
+        "zdcfsycs": "",
+        "sfwwjbz": "是",
+        "syqsfxyjxmj": "否",
+        "mjfs": "",
+        "qtxxdwzlj": "",
+        "tsrq": "",
+        "scbssfbhph": "是",
+        "scbssfbhxlh": "是",
+        "scbssfbhscrq": "否",
+        "scbssfbhsxrq": "是",
+        "packingInfoList": [],
+        "storageInfoList": [],
+        "tscchcztj": "",
+        "clinicalInfoList": [],
+        "tsccsm": "",
+        "deviceRecordKey": "696504a7-e877-4485-b7cb-59f74eeddf78",
+        "versionNumber": "3",
+        "versionTime": "2022-04-19",
+        "versionStauts": "更新",
+        "companyContactList": [
+          {
+            "qylxrcz": "",
+            "qylxryx": "weiping@qinming.com",
+            "qylxrdh": "09173600653"
+          }
+        ],
+        "correctionNumber": "0",
+        "correctionRemark": "",
+        "correctionTime": ""
+      }
+    }
+  ],
+  "provincial_cross_checks": [
+    {
+      "export_certificate_number": "陕西药监械出20250070号",
+      "product_name_zh": "植入式心脏起搏器",
+      "registration_number": "国械注准20163121585",
+      "registrant_zh": "乐普医学电子仪器股份有限公司",
+      "production_license_raw": "陕食药监械生产许 20150037 号",
+      "export_certificate_expiry": "2026-05-30",
+      "date_semantics": "export-sales certificate expiry, NOT device registration expiry",
+      "source_url": "https://mpa.shaanxi.gov.cn/sxsypjdglj/jgxx/rcjgxx/202511/t20251128_3589768.html",
+      "publication_date": "2025-11-28",
+      "retrieved_utc": "2026-10-28T20:48:31.622336+00:00"
+    },
+    {
+      "export_certificate_number": "陕西药监械出20250072号",
+      "product_name_zh": "植入式心脏起搏器电极导线",
+      "registration_number": "国械注准20163121583",
+      "registrant_zh": "乐普医学电子仪器股份有限公司",
+      "production_license_raw": "陕食药监械生产许 20150037 号",
+      "export_certificate_expiry": "2026-09-26",
+      "date_semantics": "export-sales certificate expiry, NOT device registration expiry",
+      "source_url": "https://mpa.shaanxi.gov.cn/sxsypjdglj/jgxx/rcjgxx/202511/t20251128_3589768.html",
+      "publication_date": "2025-11-28",
+      "retrieved_utc": "2026-10-28T20:48:31.622336+00:00"
+    }
+  ],
+  "queries": [
+    {
+      "source": "NMPA UDI",
+      "method": "POST",
+      "url": "https://udi.nmpa.gov.cn/getDeviceList.html",
+      "query": "乐普医学电子仪器股份有限公司",
+      "searchType": "1",
+      "page": "1",
+      "returned_rows": "15",
+      "reported_total": "48",
+      "interpretation": "Company search; all four pages reviewed. API success=false occurs even with populated valid rows."
+    },
+    {
+      "source": "NMPA UDI",
+      "method": "POST",
+      "url": "https://udi.nmpa.gov.cn/getDeviceList.html",
+      "query": "乐普医学电子仪器股份有限公司",
+      "searchType": "1",
+      "page": "2",
+      "returned_rows": "15",
+      "reported_total": "48",
+      "interpretation": "Company search; all four pages reviewed. API success=false occurs even with populated valid rows."
+    },
+    {
+      "source": "NMPA UDI",
+      "method": "POST",
+      "url": "https://udi.nmpa.gov.cn/getDeviceList.html",
+      "query": "乐普医学电子仪器股份有限公司",
+      "searchType": "1",
+      "page": "3",
+      "returned_rows": "15",
+      "reported_total": "48",
+      "interpretation": "Company search; all four pages reviewed. API success=false occurs even with populated valid rows."
+    },
+    {
+      "source": "NMPA UDI",
+      "method": "POST",
+      "url": "https://udi.nmpa.gov.cn/getDeviceList.html",
+      "query": "乐普医学电子仪器股份有限公司",
+      "searchType": "1",
+      "page": "4",
+      "returned_rows": "3",
+      "reported_total": "48",
+      "interpretation": "Company search; all four pages reviewed. API success=false occurs even with populated valid rows."
+    },
+    {
+      "source": "NMPA UDI",
+      "method": "POST",
+      "url": "https://udi.nmpa.gov.cn/getDeviceList.html",
+      "query": "QM7211",
+      "searchType": "1",
+      "page": "1",
+      "returned_rows": "0",
+      "reported_total": "0",
+      "interpretation": "Basic search did not retrieve model-only terms; company lookup found exact model records. Do not treat as absence."
+    },
+    {
+      "source": "NMPA UDI",
+      "method": "POST",
+      "url": "https://udi.nmpa.gov.cn/getDeviceList.html",
+      "query": "8631",
+      "searchType": "1",
+      "page": "1",
+      "returned_rows": "0",
+      "reported_total": "0",
+      "interpretation": "Basic search did not retrieve model-only terms; company lookup found exact model records. Do not treat as absence."
+    },
+    {
+      "source": "NMPA registration database",
+      "method": "GET",
+      "url": "https://www.nmpa.gov.cn/datasearch/home-index.html",
+      "query": "portal access",
+      "searchType": "",
+      "page": "",
+      "returned_rows": "",
+      "reported_total": "",
+      "interpretation": "HTTP 412; no registration-validity determination made."
+    },
+    {
+      "source": "NMPA approval-document delivery notice",
+      "method": "GET",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/zwfw/sdxx/sdxxylqx/qxpjfb/20230512143301130.html",
+      "query": "certificate-number search discovery",
+      "searchType": "",
+      "page": "",
+      "returned_rows": "",
+      "reported_total": "",
+      "interpretation": "HTTP 412; search snippets excluded as record evidence."
+    }
+  ],
+  "methods": [
+    {
+      "topic": "Identity resolution",
+      "interpretation": "Qinming8631D and Qinming8631DR are distinct pacemaker models. QM7211 is a separate electrode-lead family, with 45, 53 and 60 model suffixes. Do not merge lead and generator."
+    },
+    {
+      "topic": "Legal identity",
+      "interpretation": "Five records name 乐普医学电子仪器股份有限公司 with unified social credit code 916100007197599584. English registrant field is blank. Formal predecessor-name change not independently verified from corporate registry; retain Qinming as model branding."
+    },
+    {
+      "topic": "Certificate scope",
+      "interpretation": "Preserve both 2016312 and 2016321 certificate-number forms exactly. Provincial export notice independently corroborates the 2016312 forms, but does not establish whether the other form is historical, recoded or erroneous."
+    },
+    {
+      "topic": "Date scope",
+      "interpretation": "2020-09-07 is UDI publication; 2022-04-19 is version publication. Neither is original device approval. The provincial 2026 dates are export-sales certificate expiries, NOT device registration expiries. Both cited export dates precede this retrieval; no renewal search completed."
+    },
+    {
+      "topic": "Quality filter",
+      "interpretation": "Include only exact model/UDI pairs with official downloadable JSON and matching HTML detail. Cross-check two registration/company pairs against provincial regulator. Exclude secondary procurement snippets and paper-derived product values."
+    },
+    {
+      "topic": "MRI and availability",
+      "interpretation": "No MR safety information on label is not equivalent to MR Unsafe. Blank retirement date and -- status do not establish active commercial availability or current registration."
+    },
+    {
+      "topic": "AI scope",
+      "interpretation": "No explicit AI/ML mechanism in these retrieved registry descriptions. Lead descriptions concern electrodes, conductors and accessories. No firmware/IFU AI audit performed."
+    },
+    {
+      "topic": "Original tables",
+      "interpretation": "Original device and repository CSVs remain the initial six-device snapshot. This five-model extension is separate; three rows are leads, not three additional AI pacemakers. Original unresolved sheet has follow-up notes."
+    },
+    {
+      "topic": "Limits",
+      "interpretation": "NMPA registration portal blocked with HTTP 412. Corporate name-change history, certificate validity, exact D/DR mode capabilities, and model-suffix physical units were not inferred. No application DOI or clinical paper values enter these records."
+    }
+  ]
+}
