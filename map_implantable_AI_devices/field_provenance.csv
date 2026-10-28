@@ -1,0 +1,71 @@
+﻿device_id,field,value,source_record_id,source_locator,provenance_kind
+D01,applicant,"Biotronik, Inc.",K230375,results[0].applicant,repository_reported
+D01,product_code,MXD,K230375,results[0].product_code,repository_reported
+D01,decision_date,2023-05-19,K230375,results[0].decision_date,repository_reported
+D01,decision_code,SESE,K230375,results[0].decision_code,repository_reported
+D01,repository_device_name,BIOMONITOR IV,K230375,results[0].device_name,repository_reported
+D02,applicant,"Medtronic, Inc.",P150033S161,results[0].applicant,repository_reported
+D02,product_code,PNJ,P150033S161,results[0].product_code,repository_reported
+D02,decision_date,2023-04-20,P150033S161,results[0].decision_date,repository_reported
+D02,decision_code,APPR,P150033S161,results[0].decision_code,repository_reported
+D02,repository_device_name,"Micra VR2 Transcatheter Pacing System, Micra AV2 Transcatheter Pacing System, Micra VR2/AV2 Application Software",P150033S161,results[0].trade_name,repository_reported
+D02,regulatory_scope,"Approval for two new models in the Micra Transcatheter Pacing System family, the Micra VR2 and the Micra AV2.",P150033S161,results[0].ao_statement,repository_reported
+D03,applicant,"Medtronic, Inc.",P150033S161,results[0].applicant,repository_reported
+D03,product_code,PNJ,P150033S161,results[0].product_code,repository_reported
+D03,decision_date,2023-04-20,P150033S161,results[0].decision_date,repository_reported
+D03,decision_code,APPR,P150033S161,results[0].decision_code,repository_reported
+D03,repository_device_name,"Micra VR2 Transcatheter Pacing System, Micra AV2 Transcatheter Pacing System, Micra VR2/AV2 Application Software",P150033S161,results[0].trade_name,repository_reported
+D03,regulatory_scope,"Approval for two new models in the Micra Transcatheter Pacing System family, the Micra VR2 and the Micra AV2.",P150033S161,results[0].ao_statement,repository_reported
+D02,applicant,"Medtronic, Inc.",P150033S209,results[0].applicant,repository_reported
+D02,product_code,PNJ,P150033S209,results[0].product_code,repository_reported
+D02,decision_date,2025-06-18,P150033S209,results[0].decision_date,repository_reported
+D02,decision_code,OK30,P150033S209,results[0].decision_code,repository_reported
+D02,repository_device_name,"Micra AV TPS MC1AVR1, Micra AV2 TPS MC2AVR1, Micra TPS MC1VR01, Micra VR2 TPS MC2VR01",P150033S209,results[0].trade_name,repository_reported
+D02,regulatory_scope,updates to the mid-process visual inspection criteria for hybrid components,P150033S209,results[0].ao_statement,repository_reported
+D03,applicant,"Medtronic, Inc.",P150033S209,results[0].applicant,repository_reported
+D03,product_code,PNJ,P150033S209,results[0].product_code,repository_reported
+D03,decision_date,2025-06-18,P150033S209,results[0].decision_date,repository_reported
+D03,decision_code,OK30,P150033S209,results[0].decision_code,repository_reported
+D03,repository_device_name,"Micra AV TPS MC1AVR1, Micra AV2 TPS MC2AVR1, Micra TPS MC1VR01, Micra VR2 TPS MC2VR01",P150033S209,results[0].trade_name,repository_reported
+D03,regulatory_scope,updates to the mid-process visual inspection criteria for hybrid components,P150033S209,results[0].ao_statement,repository_reported
+D04,applicant,ABBOTT MEDICAL,P150035S003,results[0].applicant,repository_reported
+D04,product_code,PNJ,P150035S003,results[0].product_code,repository_reported
+D04,decision_date,2023-06-29,P150035S003,results[0].decision_date,repository_reported
+D04,decision_code,APPR,P150035S003,results[0].decision_code,repository_reported
+D04,repository_device_name,Aveir DR Leadless System,P150035S003,results[0].trade_name,repository_reported
+D04,regulatory_scope,"Approval for the Aveir DR Leadless System, Aveir Leadless Pacemaker (Right Ventricular), Aveir Leadless Pacemaker (Right Atrial), Aveir Delivery Catheter, Aveir Link Module.",P150035S003,results[0].ao_statement,repository_reported
+D05,applicant,Boston Scientific Corporation,P110042S043,results[0].applicant,repository_reported
+D05,product_code,LWS,P110042S043,results[0].product_code,repository_reported
+D05,decision_date,2015-03-13,P110042S043,results[0].decision_date,repository_reported
+D05,decision_code,APPR,P110042S043,results[0].decision_code,repository_reported
+D05,repository_device_name,EMBLEM S ICD SYSTEM,P110042S043,results[0].trade_name,repository_reported
+D05,regulatory_scope,APPROVAL FOR THE EMBLEM S-ICD SYSTEM.,P110042S043,results[0].ao_statement,repository_reported
+D01,brandName,BioMonitor IV,DI04035479177850,gudid.device.brandName,repository_reported
+D01,versionModelNumber,471155,DI04035479177850,gudid.device.versionModelNumber,repository_reported
+D01,companyName,BIOTRONIK SE & Co. KG,DI04035479177850,gudid.device.companyName,repository_reported
+D01,deviceCommDistributionStatus,In Commercial Distribution,DI04035479177850,gudid.device.deviceCommDistributionStatus,repository_reported
+D01,MRISafetyStatus,MR Conditional,DI04035479177850,gudid.device.MRISafetyStatus,repository_reported
+D04,trial_sponsor,Abbott Medical Devices,NCT05252702,protocolSection.sponsorCollaboratorsModule.leadSponsor.name,repository_reported
+D04,trial_status,COMPLETED,NCT05252702,protocolSection.statusModule.overallStatus,repository_reported
+D04,trial_enrollment,464,NCT05252702,protocolSection.designModule.enrollmentInfo.count,repository_reported
+D04,trial_enrollment_type,ACTUAL,NCT05252702,protocolSection.designModule.enrollmentInfo.type,repository_reported
+D04,trial_summary,"Prospective, non-randomized, multi-center, international study designed to evaluate the safety and effectiveness of the Aveir™ Dual-Chamber (DR) Leadless Pacemaker system.",NCT05252702,protocolSection.descriptionModule.briefSummary,repository_reported
+D05,trial_sponsor,Boston Scientific Corporation,NCT04798768,protocolSection.sponsorCollaboratorsModule.leadSponsor.name,repository_reported
+D05,trial_status,ACTIVE_NOT_RECRUITING,NCT04798768,protocolSection.statusModule.overallStatus,repository_reported
+D05,trial_enrollment,297,NCT04798768,protocolSection.designModule.enrollmentInfo.count,repository_reported
+D05,trial_enrollment_type,ACTUAL,NCT04798768,protocolSection.designModule.enrollmentInfo.type,repository_reported
+D05,trial_summary,"The MODULAR ATP Clinical Study is designed to demonstrate safety, performance, and effectiveness of the Modular Cardiac Rhythm Management (mCRM) Therapy System.",NCT04798768,protocolSection.descriptionModule.briefSummary,repository_reported
+D06,trial_sponsor,Boston Scientific Corporation,NCT04798768,protocolSection.sponsorCollaboratorsModule.leadSponsor.name,repository_reported
+D06,trial_status,ACTIVE_NOT_RECRUITING,NCT04798768,protocolSection.statusModule.overallStatus,repository_reported
+D06,trial_enrollment,297,NCT04798768,protocolSection.designModule.enrollmentInfo.count,repository_reported
+D06,trial_enrollment_type,ACTUAL,NCT04798768,protocolSection.designModule.enrollmentInfo.type,repository_reported
+D06,trial_summary,"The MODULAR ATP Clinical Study is designed to demonstrate safety, performance, and effectiveness of the Modular Cardiac Rhythm Management (mCRM) Therapy System.",NCT04798768,protocolSection.descriptionModule.briefSummary,repository_reported
+D01,trial_sponsor,Biotronik SE & Co. KG,NCT04075084,protocolSection.sponsorCollaboratorsModule.leadSponsor.name,family_context_only
+D01,trial_status,RECRUITING,NCT04075084,protocolSection.statusModule.overallStatus,family_context_only
+D01,trial_enrollment,1400,NCT04075084,protocolSection.designModule.enrollmentInfo.count,family_context_only
+D01,trial_enrollment_type,ESTIMATED,NCT04075084,protocolSection.designModule.enrollmentInfo.type,family_context_only
+D01,trial_summary,"This registry is performed for the long-term assessment of outcome, performance and residual safety aspects of the BIOMONITOR III and possible successors in a real-life clinical set-up. In addition, this registry is set up in a way that it may also be used as a platform for submodules to investigate additional scientific and regulatory aspects while minimizing the additional effort for the investigational sites and patients.",NCT04075084,protocolSection.descriptionModule.briefSummary,family_context_only
+D01,manufacturer,BIOTRONIK SE & Co. KG,K230375_summary,"PDF page 4, Submission Information / Manufacturer",repository_reported
+D02,model_number,MC2AVR1,P150033S209,results[0].trade_name,repository_reported
+D03,model_number,MC2VR01,P150033S209,results[0].trade_name,repository_reported
+D06,device_name,EMPOWER Leadless Pacemaker,NCT04798768,protocolSection.armsInterventionsModule.armGroups[0].description,repository_reported
