@@ -1,8 +1,14 @@
 # Implantable AI devices: official-record map
 
+> **Expanded UDI coverage (28 October 2026):** The workbook now contains 18 sheets, including four expansion sheets for all 48 UDI model records returned for the same Chinese registrant (43 additions). See `QINMING_UDI_EXPANSION.md` and the `qinming_expanded_*` files. Twenty-three records were first published in June 2026 and are not evidence for the February 2024 review snapshot. Active implants, implanted leads/components and external/procedural products are separately classified; this is not a list of 48 AI devices.
+
+> **Chinese-registry follow-up (28 October 2026):** Qinming identity is now resolved in five official NMPA UDI exports: Qinming8631D/DR are pacemakers; QM7211-45/-53/-60 are electrode leads. See `QINMING_RESOLUTION.md`, `qinming_registry_records.csv`, `qinming_field_provenance.csv` and `qinming_official_exports.json`. The five-model resolution added five Qinming sheets (14 sheets at that stage); unresolved-seed rows link to the resolution. Paired certificate-number forms and current certificate validity remain qualified. Original six-device CSV files remain the initial snapshot.
+
+> **AI-verification follow-up (28 October 2026):** Start with the workbook's new `AI verification`, `AI evidence` and `AI methods` sheets, or `AI_VERIFICATION.md`. BIOMONITOR IV has confirmed AI in associated external SmartECG monitoring—not in the implant. The other five entries remain AI-not-verified. The initial repository-only tables and CSVs below are retained as a historical snapshot. New files: `ai_verification.csv` and `ai_evidence_sources.json`. The AI follow-up added three sheets (nine sheets at that stage); its original six sheets remain preserved.
+
 **Scope:** A bounded, paper-seeded map of implantable cardiac devices and their public regulatory, UDI and clinical-trial records. Retrieved 28 October 2026. No simulated data or device values copied from papers.
 
-## What this map establishes
+## What the original six-device snapshot establishes
 
 - **Six verified device/system entries**, linked to **eight exact-identity official records** and one separately marked, family-level contextual trial record. These are not six independent approvals: Micra AV2 and VR2 share a supplement.
 - **AI integration is not established by the reviewed official record content.** All six entries are flagged accordingly. This is a limitation of the evidence reviewed, not proof that a device does not use AI. Automatic arrhythmia detection, AV synchrony, rate responsiveness and implant-to-implant communication were not relabeled as AI.
