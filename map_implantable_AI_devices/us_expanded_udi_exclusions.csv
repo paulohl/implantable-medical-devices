@@ -1,0 +1,5 @@
+﻿udi_di,search_family,brand,model,labeler,reason,description_raw,source_url
+00816271020520,BioMonitor,Ultium,852,"Noraxon U.S.A., Inc.",Unrelated brand/company/function; not the target cardiac family,Ultium BioMonitor SmartLead,https://accessgudid.nlm.nih.gov/api/v3/devices/lookup.json?di=00816271020520
+10845357023183,Micra,KWIK-STIK™,0958U,MICROBIOLOGICS INC.,Unrelated brand/company/function; not the target cardiac family,KWIK-STIK™ P. micra ATCC 33270™,https://accessgudid.nlm.nih.gov/api/v3/devices/lookup.json?di=10845357023183
+10845357023206,Micra,LYFO DISK™,0958L,MICROBIOLOGICS INC.,Unrelated brand/company/function; not the target cardiac family,LYFO DISK™ P. micra ATCC 33270™,https://accessgudid.nlm.nih.gov/api/v3/devices/lookup.json?di=10845357023206
+08714729977612,EMPOWER,LithoVue Empower™,M0067919900,BOSTON SCIENTIFIC CORPORATION,Unrelated brand/company/function; not the target cardiac family,Retrieval Deployment Device,https://accessgudid.nlm.nih.gov/api/v3/devices/lookup.json?di=08714729977612
