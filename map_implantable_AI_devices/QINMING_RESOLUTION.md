@@ -53,7 +53,7 @@ Only the five exact matches were retained. Unrelated company records, newer 8632
 
 ## Files and integration
 
-The workbook now opens on `Qinming registry`, with additional `Qinming provenance`, `Qinming cross-check`, `Qinming methods` and `Qinming searches` sheets. The original unresolved-seed rows now point to the resolution. Other original repository data and AI-verification results are retained.
+The five-model resolution is retained in `Qinming registry`, `Qinming provenance`, `Qinming cross-check`, `Qinming methods` and `Qinming searches`. The original unresolved-seed rows point to the resolution. A subsequent 48-model expansion now opens first in four `Expanded UDI` sheets; see `QINMING_UDI_EXPANSION.md`. Other original repository data and AI-verification results are retained.
 
 - `qinming_registry_records.csv`: five exact UDI/model rows with raw Chinese fields, translated product categories, certificate-number qualifications and source links.
 - `qinming_field_provenance.csv`: 70 field-level entries linked to original export keys and URLs.
