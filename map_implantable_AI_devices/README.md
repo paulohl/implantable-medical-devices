@@ -1,5 +1,8 @@
 # Implantable AI devices: official-record map
 
+implantable-ai      
+
+
 > **Expanded UDI coverage (28 October 2026):** The workbook now contains 18 sheets, including four expansion sheets for all 48 UDI model records returned for the same Chinese registrant (43 additions). See `QINMING_UDI_EXPANSION.md` and the `qinming_expanded_*` files. Twenty-three records were first published in June 2026 and are not evidence for the February 2024 review snapshot. Active implants, implanted leads/components and external/procedural products are separately classified; this is not a list of 48 AI devices.
 
 > **Chinese-registry follow-up (28 October 2026):** Qinming identity is now resolved in five official NMPA UDI exports: Qinming8631D/DR are pacemakers; QM7211-45/-53/-60 are electrode leads. See `QINMING_RESOLUTION.md`, `qinming_registry_records.csv`, `qinming_field_provenance.csv` and `qinming_official_exports.json`. The five-model resolution added five Qinming sheets (14 sheets at that stage); unresolved-seed rows link to the resolution. Paired certificate-number forms and current certificate validity remain qualified. Original six-device CSV files remain the initial snapshot.
